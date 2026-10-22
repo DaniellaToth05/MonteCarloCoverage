@@ -1,0 +1,7 @@
+# compiled programs (rebuild with make)
+coverageSerial
+coverageParallel
+
+# submission zip and Mac junk
+*.zip
+.DS_Store
